@@ -1,0 +1,6 @@
+{
+  "name": "Asino Kustom Hub",
+  "description": "Katalog tema Kustom (KLWP, KWGT, KLCK) karya Asino. Unduh preset gratis, beli tema eksklusif, dan ikuti panduan pemasangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
