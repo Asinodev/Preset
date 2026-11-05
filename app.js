@@ -27,7 +27,7 @@
 
   // Configurable Android APK Download URL
   // Creator can replace this with their direct hosted APK release link
-  const APK_DOWNLOAD_URL = 'https://github.com/asino-presets/releases/download/v1.0/Asino_Official.apk';
+  const APK_DOWNLOAD_URL = '';
 
   function extractYouTubeId(urlOrId) {
     if (!urlOrId || typeof urlOrId !== 'string') return null;
